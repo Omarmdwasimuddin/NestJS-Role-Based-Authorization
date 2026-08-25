@@ -48,4 +48,11 @@ export const ROLES_KEY = 'roles';
 
 export const Roles = (...roles: string[]) => SetMetadata(ROLES_KEY, roles);
 ```
+### `roles.enums.ts`
+```bash
+export enum Role {
+    User = 'user',
+    Admin = 'admin'
+}
+```
 ---
