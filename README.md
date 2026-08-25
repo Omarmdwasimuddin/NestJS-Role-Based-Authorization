@@ -125,10 +125,12 @@ export class UserRolesController {
 
 > ## OUTPUT
 > <img width="700" height="525" alt="image" src="https://github.com/user-attachments/assets/099387bd-b898-4563-a580-37d2d95d6bc5" />
+>
 >##
 > Note: headers e x-user-role dite hobe & value dite hobe ekhane value hishabe admin ache
 >
 > <img width="752" height="476" alt="image" src="https://github.com/user-attachments/assets/c394fd57-c403-435f-9141-2abcf15590d3" />
+>
 >##
 > Note: jekono user ei access korte parbe
 >
