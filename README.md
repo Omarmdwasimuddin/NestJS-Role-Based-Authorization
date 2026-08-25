@@ -31,3 +31,11 @@ export class RolesGuard implements CanActivate {
 }
 ```
 ---
+
+
+
+> ## Add file- roles.decorator.ts & roles.enums.ts
+> <img width="255" height="153" alt="image" src="https://github.com/user-attachments/assets/79a3fc7d-4956-4042-9efe-1dc83b45f6bf" />
+
+
+
